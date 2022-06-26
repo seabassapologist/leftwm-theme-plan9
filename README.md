@@ -1,5 +1,7 @@
 Based this off of the basic_polybar and the colors are taken from the [Plan 9 from Bell Labs](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) desktop
 
+![screenshot](screenshot.png)
+
 This theme makes use of following fonts:
 * Go - https://go.dev/blog/go-fonts
 * Font Awesome 6 Free - https://fontawesome.com/
